@@ -1,2 +1,2 @@
 # Week-2
-Working with Census data: notes 
+Working with Census data 
