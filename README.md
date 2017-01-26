@@ -1,7 +1,7 @@
 # Week-2
 Working with Census data ([notes](https://github.com/MUSA-620-Fall-2017/Week-2/blob/master/week-2-census-data.pptx))
 
-The data file used in the microdata.r script can be downloaded [here](https://drive.google.com/file/d/0B7vEPueW9lKEdEI5c3JDRVE4WjQ/view?usp=sharing).
+The raw microdata used in the microdata.r script can be downloaded here: [usa_00051.dat](https://drive.google.com/file/d/0B7vEPueW9lKEdEI5c3JDRVE4WjQ/view?usp=sharing).
 
 # Useful links
 
@@ -23,7 +23,7 @@ This weeks assignment is optional. You may turn it in by email (galkamaxd at gma
 
 **Due:** by the end of class next week, 1-Feb
 
-**Task:** Choose a variable from the ACS microdata and plot it on a map. 
+**Task:** Choose a variable from the ACS microdata, calculate a summary-level statistic, and plot it on a map. 
 
 **Deliverable:** The map itself (image, PDF or other format) and a description of what is plotted, the tools/applications used, and the steps taken. If everything was done with R, please include a copy of the script(s) used.
 
@@ -32,6 +32,6 @@ This assignment is not about mapping (that will come later), so the map itself d
 - Putting it into a usable format and calculating summary-level stats. The R scripts here may be helpful, though you are welcome to use other tools/applications instead, such as Excel, Access, or ArcGIS.
 - Joining the summary-level data to a GIS boundary file. You may need to create a "GeoID" or similar field in one of the two files. Data joins are a simple but important concept, which we will be using throughout the course.
 
-You may choose any Census variable you wish, as well as any geographic level.
+The choice of Census variable and geographic level is up to you. Keep in mind that if you choose smaller geographic areas, such as counties, some of the locations may be suppressed and parts of your map will be empty.
 
 
