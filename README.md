@@ -1,6 +1,8 @@
 # Week-2
 Working with Census data ([notes](https://github.com/MUSA-620-Fall-2017/Week-2/blob/master/week-2-census-data.pptx))
 
+The data file used in the microdata.r script can be downloaded [here](https://drive.google.com/file/d/0B7vEPueW9lKEdEI5c3JDRVE4WjQ/view?usp=sharing).
+
 # Useful links
 
 Census Data:
