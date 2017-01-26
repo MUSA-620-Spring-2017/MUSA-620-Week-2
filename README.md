@@ -23,13 +23,15 @@ This weeks assignment is optional. You may turn it in by email (galkamaxd at gma
 
 **Due:** by the end of class next week, 1-Feb
 
-**Task:** Choose a variable from ACS microdata and plot it on a map
+**Task:** Choose a variable from the ACS microdata and plot it on a map. 
 
 **Deliverable:** The map itself (image, PDF or other format) and a description of what is plotted, the tools/applications used, and the steps taken. If everything was done with R, please include a copy of the script(s) used.
 
-This assignment is not about mapping (that will come later), so the map itself doesn't have to be pretty and doesn't need to have a legend. The purpose is to understand the basic steps for working with Census microdata.
+This assignment is not about mapping (that will come later), so the map itself doesn't have to be pretty and doesn't need to have a legend. The purpose is to get familiar with using Census data, Microdata in this case.
 - Downloading the raw data using [IPUMS](https://usa.ipums.org/usa/)
 - Putting it into a usable format and calculating summary-level stats. The R scripts here may be helpful, though you are welcome to use other tools/applications instead, such as Excel, Access, or ArcGIS.
-- Joining the summary-level data to a GIS boundary file. You will likely need to create a "GeoID" or similar field in one of the two files. Data joins are a simple but important concept, which we will be using throughout the course.
+- Joining the summary-level data to a GIS boundary file. You may need to create a "GeoID" or similar field in one of the two files. Data joins are a simple but important concept, which we will be using throughout the course.
+
+You may choose any Census variable you wish, as well as any geographic level.
 
 
